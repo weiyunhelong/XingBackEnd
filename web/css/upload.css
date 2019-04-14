@@ -1,0 +1,68 @@
+/*提示层*/
+
+.topview{
+  width: 96%;
+  height:40px;
+  margin: 10px;  
+  background-color: #F66926;
+}
+.tiptu{
+  width: 20px;
+  height: 20px;
+  margin: 15px 5px;
+  float: left;
+}
+.toptxt{
+  height:50px;
+  float: left;
+  line-height: 50px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+}
+.tiptxt{
+  width: 94%;
+  margin-left: 3%;
+  height: 30px;
+  line-height:30px;
+  font-size: 14px;
+  color: #fff;
+}
+/*视频列表*/
+.videolist{
+  width: 86%;
+  height:250px;
+  margin:15px 7%;
+}
+.videoview{
+  width: 100%;
+  height: 200px;
+}
+.videocss{
+  width: 100%;
+  height:100%;
+}
+.delbtn{
+  width: 60%;
+  height: 40px;
+  margin:15px 20%;
+  background-color: #F66926;
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 40px;
+}
+/*选取视频上传*/
+.chkvideo{
+  width: 86%;
+  height:200px;
+  margin:15px 7%;
+  text-align: center;
+  background-color:#E6E6E6;
+}
+.chktu{
+  width: 100px;
+  height: 100px;
+  margin-top:50px; 
+}
